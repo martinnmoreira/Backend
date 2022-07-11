@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Alfajor",
+    "marca": "Guaymallén",
+    "price": 35,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_755592-MLA44688536054_012021-O.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chocolate",
+    "marca": "Tofi",
+    "price": 120,
+    "thumbnail": "https://arcorencasa.com/wp-content/uploads/2020/07/20200722-1007463.png"
+  },
+  {
+    "id": 3,
+    "title": "Chupetín",
+    "marca": "Pico Dulce",
+    "price": 50,
+    "thumbnail": "https://cdn11.bigcommerce.com/s-3stx4pub31/images/stencil/1280x1280/products/664/8465/picodulce__77899.1656356541.jpg?c=2?imbypass=on"
+  }
+]
